@@ -15,7 +15,7 @@ I am a full-stack web developer and data analyst based in the Free State, South 
 
 * **Full-Stack Architecture:** Building responsive, performance-driven web applications with modern component-driven frameworks.
 * **Data-Driven Engineering:** Designing automated data pipelines and structured queries to isolate hidden patterns and market trends.
-* **Ecosystem Building:** Founder of **FreeVerse Tech**, focusing on digital infrastructure and software solutions for the creative economy.
+* **Ecosystem Building:** Founder of **FreeVerse Tech** (www.freeverse.co.za), focusing on digital infrastructure and software solutions for the creative economy.
 
 ### ✍️ Featured Writing & Insights
 
@@ -27,7 +27,6 @@ I regularly publish articles exploring the intersection of data analytics, softw
 ### 🌐 Connect With Me
 
 * **Portfolio Website:** [karabosishuba.freeverse.co.za](https://karabosishuba.freeverse.co.za/)
-* **GitHub:** [@KaraboSishuba](https://github.com/KaraboSishuba)
 * **Medium:** [@sishubakc](https://medium.com/@sishubakc)
 * **Kaggle:** [karabosishuba](https://www.kaggle.com/karabosishuba)
 
