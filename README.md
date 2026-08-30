@@ -1,6 +1,6 @@
 ## Hi there, I'm Karabo Sishuba 👋
 
-I am a full-stack web developer and data analyst based in South Africa Free State, South Africa. I specialize in building high-performance web applications and transforming complex datasets into clear, actionable visual insights. My work bridges the gap between scalable engineering and analytical strategy, focusing heavily on clean code, automated data pipelines, and enterprise-grade architecture.
+I am a full-stack web developer and data analyst based in the Free State, South Africa. I specialize in building high-performance web applications and transforming complex datasets into clear, actionable visual insights. My work bridges the gap between scalable engineering and analytical strategy, focusing heavily on clean code, automated data pipelines, and enterprise-grade architecture.
 
 ### 💻 Core Tech Stack & Tools
 
