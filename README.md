@@ -63,7 +63,7 @@
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
   <li style="margin-bottom: 10px; padding-left: 20px; position: relative;"><span style="color: #B45309; position: absolute; left: 0;">▪</span> <strong style="color: #F3F4F6;">Full-Stack Architecture:</strong> Building responsive, performance-driven web applications with modern component-driven frameworks.</li>
   <li style="margin-bottom: 10px; padding-left: 20px; position: relative;"><span style="color: #B45309; position: absolute; left: 0;">▪</span> <strong style="color: #F3F4F6;">Data-Driven Engineering:</strong> Designing automated data pipelines and structured queries to isolate hidden patterns and market trends.</li>
-  <li style="margin-bottom: 10px; padding-left: 20px; position: relative;"><span style="color: #B45309; position: absolute; left: 0;">▪</span> <strong style="color: #F3F4F6;">Ecosystem Building:</strong> Founder of <strong style="color: #D97706;">FreeVerse Tech</strong> (<a href="https://karabosishuba.freeverse.co.za/" style="color: #D97706; text-decoration: underline;">freeverse.co.za</a>), focusing on digital infrastructure and software solutions for the creative economy.</li>
+
 </ul>
 
 </div>
