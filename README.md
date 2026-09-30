@@ -31,7 +31,7 @@
   <tbody>
     <tr style="border-bottom: 1px solid #121212;">
       <td style="padding: 10px; font-weight: 600;">Languages & Frameworks</td>
-      <td style="padding: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px;"><code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">JavaScript (ES6+)</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">TypeScript</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">Python</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">React</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">Next.js</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">HTML5</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">Tailwind CSS</code></td>
+      <td style="padding: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px;"><code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">JavaScript (ES6+)</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">TypeScript</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">React</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">Next.js</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">HTML5</code>, <code style="background: #121212; padding: 2px 6px; border-radius: 3px; border: 1px solid #2A2A32; color: #D97706;">Tailwind CSS</code></td>
     </tr>
     <tr style="border-bottom: 1px solid #121212;">
       <td style="padding: 10px; font-weight: 600;">Databases & Backends</td>
@@ -89,7 +89,7 @@
 <h3 style="color: #D97706; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; font-size: 14px; letter-spacing: 0.05em; margin-bottom: 16px;">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://karabosishuba.freeverse.co.za/" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Portfolio-Website-B45309?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.karabodata.co.za/" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Portfolio-Website-B45309?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@sishubakc" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Medium-Blog-1E1E24?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.kaggle.com/karabosishuba" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Kaggle-Profile-B45309?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://github.com/KaraboSishuba" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/GitHub-Profile-121212?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
