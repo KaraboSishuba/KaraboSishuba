@@ -89,7 +89,7 @@
 <h3 style="color: #D97706; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; font-size: 14px; letter-spacing: 0.05em; margin-bottom: 16px;">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.karabodata.netlify.app/" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Portfolio-Website-B45309?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://karabodata.netlify.app/" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Portfolio-Website-B45309?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@sishubakc" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Medium-Blog-1E1E24?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.kaggle.com/karabosishuba" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/Kaggle-Profile-B45309?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://github.com/KaraboSishuba" style="text-decoration: none; margin: 0 4px;"><img src="https://img.shields.io/badge/GitHub-Profile-121212?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
